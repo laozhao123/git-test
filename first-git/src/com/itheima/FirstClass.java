@@ -9,5 +9,7 @@ public class FirstClass {
 
 
         System.out.println(1231);
+        System.out.println(1231);
+        System.out.println(1231);
     }
 }
